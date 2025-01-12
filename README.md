@@ -1,3 +1,3 @@
 # Fundamentos de Inteligencia Artificial para el Análisis de Imágenes Satelitales
 
-Este repositorio contiene documentación sobre una serie de sesiones enfocadas en aplicaciones de estrategias de Ciencia de Datos e Inteligencia Artificial en imágenes satelitales.
+Este repositorio contiene documentación sobre una serie de sesiones enfocadas en aplicaciones de estrategias de Ciencia de Datos e Inteligencia Artificial en imágenes satelitales. El propósito de este repositorio es completamente académico y busca que sus lectores tengan una mejor idea de conceptos, algoritmos y estrategias claves en detección de objetos usando imágenes satelitales. También se advierte que son sesiones introductorias y se anima a los lectores a explorar otros repositorios y fuentes bibliográficas para validar conceptos y resolver dudas.
