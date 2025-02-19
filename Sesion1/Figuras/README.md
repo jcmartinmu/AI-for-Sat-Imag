@@ -1,1 +1,0 @@
-# Figuras Sesión 1
